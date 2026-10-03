@@ -1,1 +1,0 @@
-print("Above 75% Attedance")
